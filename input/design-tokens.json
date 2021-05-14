@@ -1,1 +1,147 @@
-{"semantic":{"light":{"success":{"category":"fill","comment":"00874A","value":"rgba(0, 135, 74, 1)","type":"color"},"warning":{"category":"fill","comment":"FF4A1C","value":"rgba(255, 74, 28, 1)","type":"color"},"error":{"category":"fill","comment":"F71735","value":"rgba(247, 23, 53, 1)","type":"color"}}},"neutrals":{"light":{"white":{"category":"fill","comment":"FFFFFF","value":"rgba(255, 255, 255, 1)","type":"color"},"cultured":{"category":"fill","comment":"E9E9E9","value":"rgba(234, 234, 234, 1)","type":"color"},"grey":{"category":"fill","comment":"BDBDBD","value":"rgba(189, 189, 189, 1)","type":"color"},"sonic silver":{"category":"fill","comment":"717171","value":"rgba(113, 113, 113, 1)","type":"color"},"rich black":{"category":"fill","comment":"011627","value":"rgba(1, 22, 39, 1)","type":"color"}}},"primary":{"light":{"intel blue":{"category":"fill","comment":"3751FF","value":"rgba(55, 81, 255, 1)","type":"color"},"midnight klue":{"category":"fill","comment":"611F69","value":"rgba(97, 31, 105, 1)","type":"color"}}},"secondary":{"light":{"african violet":{"category":"fill","comment":"B77ABE","value":"rgba(183, 122, 190, 1)","type":"color"},"cadmium yellow":{"category":"fill","comment":"FFF400","value":"rgba(255, 245, 0, 1)","type":"color"},"max blue purple":{"category":"fill","comment":"B4BDFF","value":"rgba(180, 189, 255, 1)","type":"color"}}},"light":{"headline":{"large":{"category":"font","fontSize":{"value":20,"type":"number","unit":"pixel"},"textDecoration":{"value":"none","type":"string"},"fontFamily":{"value":"Barlow","type":"string"},"fontWeight":{"value":600,"type":"number"},"fontStyle":{"value":"normal","type":"string"},"fontStretch":{"value":"normal","type":"string"},"_fontStyleOld":{"value":"SemiBold","type":"string"},"letterSpacing":{"value":0,"type":"number","unit":"pixels"},"lineHeight":{"value":26,"type":"number","unit":"pixels"},"paragraphIndent":{"value":0,"type":"number","unit":"pixel"},"paragraphSpacing":{"value":0,"type":"number","unit":"pixel"},"textCase":{"value":"none","type":"string"}},"medium":{"category":"font","fontSize":{"value":18,"type":"number","unit":"pixel"},"textDecoration":{"value":"none","type":"string"},"fontFamily":{"value":"Barlow","type":"string"},"fontWeight":{"value":600,"type":"number"},"fontStyle":{"value":"normal","type":"string"},"fontStretch":{"value":"normal","type":"string"},"_fontStyleOld":{"value":"SemiBold","type":"string"},"letterSpacing":{"value":0,"type":"number","unit":"pixels"},"lineHeight":{"value":26,"type":"number","unit":"pixels"},"paragraphIndent":{"value":0,"type":"number","unit":"pixel"},"paragraphSpacing":{"value":0,"type":"number","unit":"pixel"},"textCase":{"value":"none","type":"string"}}},"copy":{"medium":{"category":"font","fontSize":{"value":14,"type":"number","unit":"pixel"},"textDecoration":{"value":"none","type":"string"},"fontFamily":{"value":"Barlow","type":"string"},"fontWeight":{"value":400,"type":"number"},"fontStyle":{"value":"normal","type":"string"},"fontStretch":{"value":"normal","type":"string"},"_fontStyleOld":{"value":"Regular","type":"string"},"letterSpacing":{"value":0,"type":"number","unit":"pixels"},"lineHeight":{"value":24,"type":"number","unit":"pixels"},"paragraphIndent":{"value":0,"type":"number","unit":"pixel"},"paragraphSpacing":{"value":0,"type":"number","unit":"pixel"},"textCase":{"value":"none","type":"string"}}}}}
+{
+  "semantic": {
+    "light": {
+      "success": {
+        "category": "fill",
+        "comment": "00874A",
+        "value": "rgba(0, 135, 74, 1)",
+        "type": "color"
+      },
+      "warning": {
+        "category": "fill",
+        "comment": "FF4A1C",
+        "value": "rgba(255, 74, 28, 1)",
+        "type": "color"
+      },
+      "error": {
+        "category": "fill",
+        "comment": "F71735",
+        "value": "rgba(247, 23, 53, 1)",
+        "type": "color"
+      }
+    }
+  },
+  "neutrals": {
+    "light": {
+      "white": {
+        "category": "fill",
+        "comment": "000000",
+        "value": "rgba(0, 0, 0, 1)",
+        "type": "color"
+      },
+      "cultured": {
+        "category": "fill",
+        "comment": "E9E9E9",
+        "value": "rgba(234, 234, 234, 1)",
+        "type": "color"
+      },
+      "grey": {
+        "category": "fill",
+        "comment": "BDBDBD",
+        "value": "rgba(189, 189, 189, 1)",
+        "type": "color"
+      },
+      "sonic silver": {
+        "category": "fill",
+        "comment": "717171",
+        "value": "rgba(113, 113, 113, 1)",
+        "type": "color"
+      },
+      "rich black": {
+        "category": "fill",
+        "comment": "011627",
+        "value": "rgba(1, 22, 39, 1)",
+        "type": "color"
+      }
+    }
+  },
+  "primary": {
+    "light": {
+      "intel blue": {
+        "category": "fill",
+        "comment": "3751FF",
+        "value": "rgba(55, 81, 255, 1)",
+        "type": "color"
+      },
+      "midnight klue": {
+        "category": "fill",
+        "comment": "611F69",
+        "value": "rgba(97, 31, 105, 1)",
+        "type": "color"
+      }
+    }
+  },
+  "secondary": {
+    "light": {
+      "african violet": {
+        "category": "fill",
+        "comment": "B77ABE",
+        "value": "rgba(183, 122, 190, 1)",
+        "type": "color"
+      },
+      "cadmium yellow": {
+        "category": "fill",
+        "comment": "FFF400",
+        "value": "rgba(255, 245, 0, 1)",
+        "type": "color"
+      },
+      "max blue purple": {
+        "category": "fill",
+        "comment": "B4BDFF",
+        "value": "rgba(180, 189, 255, 1)",
+        "type": "color"
+      }
+    }
+  },
+  "light": {
+    "headline": {
+      "large": {
+        "category": "font",
+        "fontSize": { "value": 20, "type": "number", "unit": "pixel" },
+        "textDecoration": { "value": "none", "type": "string" },
+        "fontFamily": { "value": "Barlow", "type": "string" },
+        "fontWeight": { "value": 600, "type": "number" },
+        "fontStyle": { "value": "normal", "type": "string" },
+        "fontStretch": { "value": "normal", "type": "string" },
+        "_fontStyleOld": { "value": "SemiBold", "type": "string" },
+        "letterSpacing": { "value": 0, "type": "number", "unit": "pixels" },
+        "lineHeight": { "value": 26, "type": "number", "unit": "pixels" },
+        "paragraphIndent": { "value": 0, "type": "number", "unit": "pixel" },
+        "paragraphSpacing": { "value": 0, "type": "number", "unit": "pixel" },
+        "textCase": { "value": "none", "type": "string" }
+      },
+      "medium": {
+        "category": "font",
+        "fontSize": { "value": 18, "type": "number", "unit": "pixel" },
+        "textDecoration": { "value": "none", "type": "string" },
+        "fontFamily": { "value": "Barlow", "type": "string" },
+        "fontWeight": { "value": 600, "type": "number" },
+        "fontStyle": { "value": "normal", "type": "string" },
+        "fontStretch": { "value": "normal", "type": "string" },
+        "_fontStyleOld": { "value": "SemiBold", "type": "string" },
+        "letterSpacing": { "value": 0, "type": "number", "unit": "pixels" },
+        "lineHeight": { "value": 26, "type": "number", "unit": "pixels" },
+        "paragraphIndent": { "value": 0, "type": "number", "unit": "pixel" },
+        "paragraphSpacing": { "value": 0, "type": "number", "unit": "pixel" },
+        "textCase": { "value": "none", "type": "string" }
+      }
+    },
+    "copy": {
+      "medium": {
+        "category": "font",
+        "fontSize": { "value": 14, "type": "number", "unit": "pixel" },
+        "textDecoration": { "value": "none", "type": "string" },
+        "fontFamily": { "value": "Barlow", "type": "string" },
+        "fontWeight": { "value": 400, "type": "number" },
+        "fontStyle": { "value": "normal", "type": "string" },
+        "fontStretch": { "value": "normal", "type": "string" },
+        "_fontStyleOld": { "value": "Regular", "type": "string" },
+        "letterSpacing": { "value": 0, "type": "number", "unit": "pixels" },
+        "lineHeight": { "value": 24, "type": "number", "unit": "pixels" },
+        "paragraphIndent": { "value": 0, "type": "number", "unit": "pixel" },
+        "paragraphSpacing": { "value": 0, "type": "number", "unit": "pixel" },
+        "textCase": { "value": "none", "type": "string" }
+      }
+    }
+  }
+}
